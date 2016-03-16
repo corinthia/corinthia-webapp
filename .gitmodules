@@ -1,0 +1,3 @@
+[submodule "corinthia-editor"]
+	path = corinthia-editor
+	url = git@github.com:corinthia/corinthia-editor.git
